@@ -3,7 +3,7 @@
 I was really tired of doing manual searches for secrets in files on github.
 I Think we can all agree trufflehog is an amazing tool but it just doesnt search for repos for you. With that I am lazy, I don't want to manually pass info to that tool.
 In the process of all my retardedness I decided I would use trufflehog3 because it had stated it could do pdf generation and html stuff and I wanted to form this tool into a shitty web app.
-Not really sure what happened but it did not work so I just figured I would rewrite this soon and only use trufflehog only.
+Not really sure what happened but it did not work so I just figured I would rewrite this soon and only use trufflehog.
 Honestly with things I have seen in the last month or so this tool will become obsolete very quickly lol.
 This tool netted me $3k in bounties...
 uhm yeah use it or don't ¯\_(ツ)_/¯
