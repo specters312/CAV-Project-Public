@@ -46,5 +46,5 @@ Please make sure to update tests as appropriate.
 ## License
 Not sure yet what I am doing here ¯\_(ツ)_/¯
 
-## Shout outs (ツ)╭∩╮
+## Shout outs (ツ)
 PatrickFarwick
