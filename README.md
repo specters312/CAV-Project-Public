@@ -23,6 +23,12 @@ Windows
 ```cmd.exe or powershell
 pip3 install -r requirements
 ```
+
+# Add GITHUB API TOKEN
+
+Google how to generate a token
+and add it to the CAVEIRA.py script
+
 ## Usage
 
 Run `CAVEIRA.py` to activate the automation
