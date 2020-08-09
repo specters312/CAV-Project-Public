@@ -10,7 +10,7 @@ uhm yeah use it or don't ¯\_(ツ)_/¯
 
 
 ## Installation
-Python 3.7+ is required because I dont want to write this again. Although with some tweaks you can get it to work on any version of python you want.
+Python 3.7+ is required ~~because I dont want to write this again.~~ Although with some tweaks you can get it to work on any version of python you want.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirments.
 
