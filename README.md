@@ -19,15 +19,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirm
 pip3 install -r requirements
 ```
 
-Windows
+Windows (RunAs Administrator plz)
 ```cmd.exe or powershell
 pip3 install -r requirements
 ```
 
 # Add GITHUB API TOKEN
 
-Google how to generate a token
-and add it to the CAVEIRA.py script
+Google how to generate a token for github
+and add it to `g = Github(ACCESS_TOKEN)`
 
 ## Usage
 
