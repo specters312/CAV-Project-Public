@@ -23,6 +23,12 @@ Windows
 ```cmd.exe or powershell
 pip3 install -r requirements
 ```
+
+# Add GITHUB API TOKEN
+
+Google how to generate a token
+and add it to the CAVEIRA.py script
+
 ## Usage
 
 Run `CAVEIRA.py` to activate the automation
@@ -35,7 +41,7 @@ Enter A Domain Name[e.g example.com]:
 ```
 Windows
 ```
-python CAVEIRA.py
+python3 CAVEIRA.py
 Enter A Domain Name[e.g example.com]:
 ```
 ## Contributing
@@ -46,5 +52,5 @@ Please make sure to update tests as appropriate.
 ## License
 Not sure yet what I am doing here ¯\_(ツ)_/¯
 
-## Shout outs (ツ)╭∩╮
+## Shout outs (ツ)
 PatrickFarwick
