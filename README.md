@@ -35,7 +35,7 @@ Enter A Domain Name[e.g example.com]:
 ```
 Windows
 ```
-python CAVEIRA.py
+python3 CAVEIRA.py
 Enter A Domain Name[e.g example.com]:
 ```
 ## Contributing
