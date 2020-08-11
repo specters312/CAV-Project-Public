@@ -19,7 +19,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirm
 pip3 install -r requirements
 ```
 
-Windows (RunAs Administrator plz)
+Windows 
 ```cmd.exe or powershell
 pip3 install -r requirements
 ```
@@ -39,7 +39,7 @@ python3 CAVEIRA.py
 Enter A Domain Name[e.g example.com]:
 
 ```
-Windows
+Windows (RunAs Administrator plz)
 ```
 python3 CAVEIRA.py
 Enter A Domain Name[e.g example.com]:
