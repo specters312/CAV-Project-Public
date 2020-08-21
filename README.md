@@ -53,5 +53,5 @@ Please make sure to update tests as appropriate.
 Not sure yet what I am doing here ¯\_(ツ)_/¯
 
 ## Shout outs (ツ)
-PatrickFarwick
-MoonWalker
+* PatrickFarwick
+* MoonWalker
